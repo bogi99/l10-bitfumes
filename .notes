@@ -1,0 +1,4 @@
+mkdir l10-course
+composer create-project laravel/laravel l104beginners
+
+php artisan serve 
